@@ -1,44 +1,20 @@
-しむゆっくり3(仮)
-===
-
+# SimYukkuriSharp
 ゆっくりのシミュレータを作ります。
 
-このプロジェクトはMimisuke氏によって開発された以下のプロジェクトから派生したものです。
+See Also [https://github.com/orauyeu/SimYukkuri](https://github.com/orauyeu/SimYukkuri)
 
-* https://ja.osdn.net/projects/simyukkuri/
+## 開発環境
+Visual Studio 2019(C#)
+Unity 2018
 
+##動作環境
+開発環境に準じる
 
-**Read this in other languages:**
-- 日本語 (Japanese) : *this file*
-- [English (英語)](README.en.md)
-
-
-システム要件
----
-
-* 最新のJavaランタイム環境 (JRE)
-* JREが要求するシステム要件を満たす環境
-
-インストール
----
-
-(TBD)
-
-使用方法
----
-
-(TBD)
+##プロジェクトへの参加
+このプロジェクトは基本的に、参加者が見込めないことと、Gitに不慣れなので、
+個人製作の範疇で行う予定です。プロジェクトの進め方や、ゲームのアイディアなどについて
+何か意見がありましたら,issueなどに投稿してください。また開発者は某所の掲示板も見ているかもしれません。
 
 
-プロジェクトに参加するには
----
-
-[CONTRIBUTING](CONTRIBUTING.md)をご覧ください。
-
-ライセンス
----
-
-しむゆっくり3(仮)は「[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)」でライセンスされています。
-
-詳しくは[LICENSE](LICENSE.md)をご覧ください。
-
+##ライセンス
+[LICENSE](https://github.com/ume-q/SimYukkuri/blob/master/LICENSE.md)
